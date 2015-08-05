@@ -1,0 +1,7 @@
+[package]
+name = "clipboard-demo"
+version = "0.1.0"
+authors = ["Avi Weinstock <aweinstock314@gmail.com>"]
+
+[dependencies.clipboard]
+git = "https://github.com/aweinstock314/rust-clipboard"
